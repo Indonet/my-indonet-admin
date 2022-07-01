@@ -1,0 +1,48 @@
+.hide{
+	display: none !important;
+}
+.logo_btm{
+	display: flex; 
+	justify-content: center; 
+	position: absolute; 
+	bottom: 20px; 
+	right: 10px; 
+}
+.width-255{
+	width: 255px;
+}
+.width-200{
+	width: 200px;
+}
+.width-100{
+	width: 100px;
+}
+.width-80{
+	width: 80px;
+}
+.width-120{
+	width: 120px;
+}
+.width-400{
+	width: 400px;
+} 
+.logo-billing{
+	width: 170px; 
+	margin-left: -4px;
+}
+.font-14{
+	font-size: 14px;
+}
+.pd-10{
+	padding: 10px !important;
+} 
+.display_inv thead th {
+    background-color: #e0e0e0; 
+}
+.display_inv td {
+    background-color: #f3f1f1; 
+}
+.display_info_inv tbody tr td{
+    font-size: 14px;
+	border: none;
+}
